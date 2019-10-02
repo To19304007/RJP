@@ -89,6 +89,7 @@ a:active{
 	position: relative;
 }
 #footer {
+	border-top: 2px solid #FFF;
 	padding: 15px;
 	clear: both;
 	color: #FFFFFF;
@@ -225,7 +226,7 @@ content styles
 -------------------------------*/
 #content{
 	overflow:hidden;
-	font-size:14px;
+	font-size:18px;
 	background:#fff;
 	border: 1px solid #ddd;
 	//box-shadow:0 0 3px #ddd;
@@ -323,6 +324,7 @@ Rectangular,Scare styles
 }
 
 #Sqare{
+	font-size: 14px;
 	float:left;
 	background:#fff;
 	//box-shadow:0 0 3px #ddd;

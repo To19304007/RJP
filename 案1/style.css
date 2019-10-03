@@ -291,7 +291,7 @@ padding:3px;
 #content table{
 	float: left;
 	width: 60%;
-	margin: 5px 2px;
+	margin: 15px;
 }
 
 #content iframe{
@@ -299,6 +299,22 @@ padding:3px;
 		width: 90%;
 		height: 300px;
 		margin:  10px auto;
+}
+
+#train{
+	overflow:hidden;
+	font-size:18px;
+	background:#fff;
+	border: 1px solid #ddd;
+	width: 966px;
+	margin: 15px;
+	padding-top: 10px;
+	padding-bottom: -20px;
+}
+
+#train img{
+width:10%;
+height:auto;
 }
 /*
 calams styles
